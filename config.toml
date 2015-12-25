@@ -1,0 +1,4 @@
+baseurl = "http://mattmcdole.com/"
+languageCode = "en-us"
+title = "Matt McDole"
+theme = "hyde"
